@@ -11,7 +11,7 @@ Components Used:
 •	Vibration Motor
 •	LED with 220Ω resistor
 •	Jumper Wires
-•	PVC Pipe
+•	PVC Pipe 
 •	Battery Holder & Rechargeable Battery
 •	Cable Ties
 
