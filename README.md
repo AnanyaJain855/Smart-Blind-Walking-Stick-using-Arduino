@@ -17,8 +17,14 @@ Components Used:
 
 Working Principle:
 The stick uses an ultrasonic sensor to detect obstacles up to a distance of 25 cm. When an object is detected:
-
 •	The buzzer beeps.
 •	The LED lights up.
 •	The vibration motor activates (inferred from report, although not coded in the current version).
 These alerts notify the user of nearby obstructions, helping them avoid collisions.
+
+Result:
+When an obstacle is detected within 25 cm:
+•	The LED lights up,
+•	The buzzer beeps,
+•	And the user is alerted effectively.
+No alert is triggered if the path is clear.
