@@ -28,9 +28,8 @@ The stick uses an ultrasonic sensor to detect obstacles up to a distance of 25 c
 These alerts notify the user of nearby obstructions, helping them avoid collisions.
 
 ## 📋 Circuit Diagram
+![1](https://github.com/user-attachments/assets/bbd3a369-4cca-4321-aac9-0760cf722921)
 
-![Circuit Diagram](https://github.com/yourusername/Smart-Blind-Walking-Stick-using-Ardui![1](https://github.com/user-attachments/assets/503be7b5-31ce-427a-9416-536471703f88)
-no/raw/main/images/circuit_diagram.jpg)
 
 ## 📄 Code
 
